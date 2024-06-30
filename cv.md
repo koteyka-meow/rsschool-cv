@@ -6,3 +6,11 @@ _Junior Frontend Developer_
 Phone:
 
 E-mail: shmeleova1sofia@gmail.com
+
+## Skills:
+* HTML
+* CSS
+* JS
+* Git
+* Figma
+* Photoshop
