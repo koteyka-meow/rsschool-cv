@@ -14,3 +14,10 @@ E-mail: shmeleova1sofia@gmail.com
 * Git
 * Figma
 * Photoshop
+
+## Education:
+Russian Technological University (2019-2023)
+
+## Languages:
+* Russian (Native)
+* English (A2)
